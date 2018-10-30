@@ -1,12 +1,5 @@
 # README
 
-Le site du résultat est visible sur: https://laxus-form.herokuapp.com/
-
+Le site du résultat est visible sur: 
 Merci!
 
-# OPÉRATEUR DU PROJET
-
-Michael-Luxus
-...
-
-* ...
